@@ -1,0 +1,32 @@
+# Cricket Performance Analytics 🏏📊
+
+## Project Overview
+This project analyzes cricket match and team performance using ball-by-ball data to uncover trends, strengths, and strategies.
+
+## Business Objective
+To evaluate team and match performance metrics for strategic insights in cricket analytics.
+
+## Key KPIs
+- Total Runs & Wickets
+- Run Rate & Economy Rate
+- Powerplay, Middle Overs, Death Overs Analysis
+- Toss Impact on Match Outcome
+- Win Percentage by Team
+
+## Dashboard Pages
+1. Team & Match Overview  
+2. Team Performance & Strategy  
+3. Match Conditions & Trends  
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- CSV Data
+- GitHub
+
+## Outcome
+This dashboard enables advanced cricket performance evaluation and strategic decision-making using data.
+
+## Screenshots
+Added to the Files Section
